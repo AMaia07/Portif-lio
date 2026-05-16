@@ -1,2 +1,2 @@
-# Portif-lio
+# Portifolio
 Meus projetos acadêmicos e pessoais
